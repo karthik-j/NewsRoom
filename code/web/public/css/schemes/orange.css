@@ -1,0 +1,86 @@
+a{
+	color:#f39c12;
+}
+.mainclr, .totalrating{background:#f39c12!important;}
+.thumcont:after, .posthumb:after, .flexslider .capcontain .slidetitle .slidecat, .loopBigIsi{
+	background:rgba(243, 156, 18,.8);
+}
+.fwstyle{
+	color:#f39c12
+}
+.textdev div{
+	background:#f39c12;
+}
+.textdev h3, .textdev h1, .textdev h2, .textdev h4{
+	border-right:2px solid #f39c12;
+	border-left:2px solid #f39c12;
+}
+.parentcontainer{
+	border-top:7px solid #f39c12;
+}
+.hdrbtn ul li a:before{
+	background:#f39c12;
+}
+.mainmenu{
+	border-bottom:3px solid #f39c12;
+}
+/* Animate Material */
+.mainmenu > li > a:after, .hdrbtn:after, .mainmenu li a.active,.mainmenu ul a:before{
+	background: #f39c12;
+}
+.mainmenu ul li:hover > a{color:#f39c12}
+.flex-direction-nav i:hover{
+	border: 1px solid #f39c12;
+	color: #f39c12;
+}
+.postloop header:hover a{
+	color:#f39c12;
+}
+
+.postloop header:hover .postdate{
+	background:#f39c12
+}
+.pagination li a:hover, .pagination li a.active{
+	background:#f39c12;
+}
+.post h2.title-entry a:hover, .post .inline-list a:hover{
+	color:#f39c12;
+}
+
+.post h2.title-entry:active a{
+	background:#f39c12;
+}
+.copyright ul li a:before{
+	background:#f39c12;
+}
+
+.recposts:hover h2 a{
+	color:#f39c12
+}
+
+.rating{color:#f39c12}
+
+.gridpost h2 a:before{
+	background:#f39c12;
+}
+.gridpost h2 a:hover{
+	color:#f39c12
+}
+.posmeta i, .posmeta a:hover{
+	color:#f39c12;
+}
+.gridpost.ajaxloop a:hover small{
+	color:#f39c12
+}
+input[type="text"], input[type="email"], input[type="password"], textarea{
+	outline-color:#f39c12;
+}
+.content-tags a{
+	background:#f39c12;	
+}
+.content-tags a:before{
+	background:#f39c12;
+}
+.overall{
+	background:#f39c12;
+}

@@ -1,0 +1,86 @@
+a{
+	color:#e74c3c;
+}
+.mainclr, .totalrating{background:#e74c3c!important;}
+.thumcont:after, .posthumb:after, .flexslider .capcontain .slidetitle .slidecat, .loopBigIsi{
+	background:rgba(231, 76, 60,.8);
+}
+.fwstyle{
+	color:#e74c3c
+}
+.textdev div{
+	background:#e74c3c;
+}
+.textdev h3, .textdev h1, .textdev h2, .textdev h4{
+	border-right:2px solid #e74c3c;
+	border-left:2px solid #e74c3c;
+}
+.parentcontainer{
+	border-top:7px solid #e74c3c;
+}
+.hdrbtn ul li a:before{
+	background:#e74c3c;
+}
+.mainmenu{
+	border-bottom:3px solid #e74c3c;
+}
+/* Animate Material */
+.mainmenu > li > a:after, .hdrbtn:after, .mainmenu li a.active,.mainmenu ul a:before{
+	background: #e74c3c;
+}
+.mainmenu ul li:hover > a{color:#e74c3c}
+.flex-direction-nav i:hover{
+	border: 1px solid #e74c3c;
+	color: #e74c3c;
+}
+.postloop header:hover a{
+	color:#e74c3c;
+}
+
+.postloop header:hover .postdate{
+	background:#e74c3c
+}
+.pagination li a:hover, .pagination li a.active{
+	background:#e74c3c;
+}
+.post h2.title-entry a:hover, .post .inline-list a:hover{
+	color:#e74c3c;
+}
+
+.post h2.title-entry:active a{
+	background:#e74c3c;
+}
+.copyright ul li a:before{
+	background:#e74c3c;
+}
+
+.recposts:hover h2 a{
+	color:#e74c3c
+}
+
+.rating{color:#e74c3c}
+
+.gridpost h2 a:before{
+	background:#e74c3c;
+}
+.gridpost h2 a:hover{
+	color:#e74c3c
+}
+.posmeta i, .posmeta a:hover{
+	color:#e74c3c;
+}
+.gridpost.ajaxloop a:hover small{
+	color:#e74c3c
+}
+input[type="text"], input[type="email"], input[type="password"], textarea{
+	outline-color:#e74c3c;
+}
+.content-tags a{
+	background:#e74c3c;	
+}
+.content-tags a:before{
+	background:#e74c3c;
+}
+.overall{
+	background:#e74c3c;
+}
