@@ -1,7 +1,7 @@
 NewsRoom
 ========
 
-###Deno
+###Demo
 http://youtu.be/DplR6aqGeUY
 
 ###Installation
@@ -13,6 +13,7 @@ http://youtu.be/DplR6aqGeUY
 3) Edit code/web/app/config/solr.php to configure the solr core name and path.
 
 4) Run solr jetty server, deploy the entire web folder in wampp or any php supported server and run http://127.0.0.1/NewsRoom/web/public/ to start and experience the NEWSROOM
+
 ###Features
 *	Newsroom serves the Wikipedia articles, the contextually related news stories from The New York Times and the related tweets, all in one place. 
 
